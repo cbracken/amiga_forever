@@ -1,0 +1,3 @@
+[submodule "fonts/amigafonts"]
+	path = fonts/amigafonts
+	url = https://github.com/rewtnull/amigafonts

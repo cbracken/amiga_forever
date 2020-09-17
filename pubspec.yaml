@@ -1,0 +1,22 @@
+name: guru_meditation
+description: A new Flutter project.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  fonts:
+    - family: Topaz
+      fonts:
+        - asset: fonts/amigafonts/ttf/Topaz_a500_v1.0.ttf
